@@ -1,0 +1,16 @@
+{
+  "name": "technical-interview-practice",
+  "version": "1.0.0",
+  "description": "(This is from Emily Bache's \"The Coding Dojo Handbook\")",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.0.0"
+  }
+}
