@@ -40,7 +40,6 @@ GitHub repo: https://github.com/mhl/yatzy-node
 
 ## General thoughts
 
-- My interviewers were friendly
 - When you don't know the answer to a technical question, don't be afraid to admit it! Try to make an educated guess (and explain your reasoning) if possible
 - Verbalise everything during the tech test! Talk your interviewers through the solution you want to implement and why you think it is a good one. (i.e. "We will use the reduce method because it's a good way to sum up all the values in an array")
 - Ask your interviewers questions. If you're writing code, ask them if they would like you to write tests.
