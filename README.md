@@ -24,10 +24,10 @@ again in the remaining goes for that game. A full game consists
 of one go for each category. Thus, for their last go in a game,
 a player must choose their only remaining category.
 
-Your task is to score a _given_ roll in a _given_ category. You
+**Your task is to score a _given_ roll in a _given_ category. You
 do not have to program the random dice rolling. The game is not
 played by letting the computer choose the highest scoring
-category for a given roll.
+category for a given roll.**
 
 # Categories and Scoring Rules
 
