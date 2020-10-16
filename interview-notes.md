@@ -6,7 +6,7 @@
 - What does status code 403 mean?
 - What does status code 301 mean?
 - What is a foreign key?
-- Why might you need to use foreign keys with AWS IAM?
+- Why might you need to use access keys with AWS IAM?
 - What runs on port 80?
 - What does the second argument in the reduce method do? What happens if you omit it?
 
